@@ -25,7 +25,7 @@
     height: 12vh;
 }
 .footer_data ul li{
-    cursor: ;
+    cursor: pointer;
 }
 .service_code{
     display: flex;
